@@ -7,11 +7,11 @@
 
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Pacifico&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+LOIC+Nguefack!;Marn+Stack+Developer+💻;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Pacifico&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+LOIC+Nguefack!;Mean+Stack+Developer+💻;" />
 </h1>
 
 <h4 align="center">🚀 Welcome to my GitHub universe! 🚀</h4>
-<h2 align="center">👋 I am LOIC Nguefack, a passionate MARN stack developer and coding enthusiast from Cameroon🌍!</h2>
+<h2 align="center">👋 I am LOIC Nguefack, a passionate MEAN stack developer and coding enthusiast from Cameroon🌍!</h2>
 
 <br/>
 
@@ -20,7 +20,7 @@
 <img align="right" width="250" alt="Coding" src="https://github.com/SaxenaShourya/SaxenaShourya/assets/143955797/3ac3278b-8a5e-46f1-9f9e-c01e3ee3874a" />
 
 <p align="left"> 
-🌟 Passionate MARN Developer 🚀
+🌟 Passionate MEAN Developer 🚀
 </p>
 <p align="left"> 
 🎨 Creative Tech Enthusiast 💡
