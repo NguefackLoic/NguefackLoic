@@ -7,11 +7,11 @@
 
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Pacifico&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+LOIC+Nguefack!;Mern+Stack+Developer+💻;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Pacifico&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+LOIC+Nguefack!;Marn+Stack+Developer+💻;" />
 </h1>
 
 <h4 align="center">🚀 Welcome to my GitHub universe! 🚀</h4>
-<h2 align="center">👋 I am LOIC Nguefack, a passionate MERN stack developer and coding enthusiast from Cameroon🌍!</h2>
+<h2 align="center">👋 I am LOIC Nguefack, a passionate MARN stack developer and coding enthusiast from Cameroon🌍!</h2>
 
 <br/>
 
@@ -20,7 +20,7 @@
 <img align="right" width="250" alt="Coding" src="https://github.com/SaxenaShourya/SaxenaShourya/assets/143955797/3ac3278b-8a5e-46f1-9f9e-c01e3ee3874a" />
 
 <p align="left"> 
-🌟 Passionate MERN Developer 🚀
+🌟 Passionate MARN Developer 🚀
 </p>
 <p align="left"> 
 🎨 Creative Tech Enthusiast 💡
@@ -33,23 +33,23 @@
 </p>
 
 
-📫 Contact Me At *yohivana794@gmail.com*
+📫 Contact Me At *lnguefack11@gmail.com*
 
 <h5>
-  🔗 Know more About me on <a href="https://www.linkedin.com/in/kenmegne-yoh-ivana-marina-a656a92a0/" target="_blank">LinkedIn</a>
+  🔗 Know more About me on <a href="https://www.linkedin.com/in/loic-nguefack/" target="_blank">LinkedIn</a>
 </h5>
 
 <hr/>
  
 <h2 align="center">📚 My Stack 📚</h2>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs" />
+    <img src="https://skillicons.dev/icons?i=mongodb,express,angular,nodejs" />
 </div>
 
 <h2 align="center">🎨 Frontend 🎨</h2>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,bootstrap,materialui"/>
-    <img src="https://skillicons.dev/icons?i=babel,webpack,githubactions,vite,vuejs"/>
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,bootstrap,materialui,angular,vuejs"/>
+    <img src="https://skillicons.dev/icons?i=babel,webpack,githubactions,vite"/>
 </div>
 
 <h2 align="center">⚙️ Backend ⚙️</h2>
