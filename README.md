@@ -59,7 +59,7 @@
 
 <h2 align="center">⚒️ Tools & Technologies ⚒️</h2>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=git,github,figma,postman,wakatime" />
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab,figma,postman,wakatime" />
 </div>
 <br/>
 
